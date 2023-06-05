@@ -1,6 +1,8 @@
-@inproceedings{author20XXtitle,
-  title={Please cite me},
-  author={Author, First and Author, Second and Author, Third},
-  booktitle={Conference},
-  year={20XX}
+@misc{chen2023train,
+      title={How To Not Train Your Dragon: Training-free Embodied Object Goal Navigation with Semantic Frontiers}, 
+      author={Junting Chen and Guohao Li and Suryansh Kumar and Bernard Ghanem and Fisher Yu},
+      year={2023},
+      eprint={2305.16925},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
 }
